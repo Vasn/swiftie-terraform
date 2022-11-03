@@ -33,10 +33,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Swiftie Terraform and AWS automated resource provisioning</h3>
 
   <p align="center">
-    project_description
+    Singapore Management University (IS458 Cloud Management and Engineering
+G2T2) Swiftie Online Digital Bank Cloud Computing Provisioning
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
