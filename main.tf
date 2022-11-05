@@ -129,7 +129,7 @@ resource "aws_elastic_beanstalk_environment" "swiftie_beanstalk_env" {
   setting {
     namespace = "aws:ec2:vpc"
     name      = "Subnets"
-    value     = aws_subnet.swiftie_public_subnet.*.id
+    value     = aws_subnet.swiftie_public_subnet.id
   }
   setting {
     namespace = "aws:elasticbeanstalk:environment:process:default"
