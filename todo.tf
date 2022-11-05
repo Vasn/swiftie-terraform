@@ -5,7 +5,7 @@
 # 5. Associate subnet with route table
 # 6. Create security group to allow web traffic & SSH (port 22, 80, 443)
 # 7. Create a network interface with ip in subnet (in step 2)
-# 8. Create webserver & apache
+# 8. Create webserver & apache ✔️
 # 9. Create Route 53
 # 10. Create WAF
 # 11. Create API gateway
