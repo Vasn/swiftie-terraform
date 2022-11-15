@@ -54,7 +54,6 @@ To get a local copy up and running follow these simple example steps.
 2. Install Terraform executables and set PATH environment from https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 3. Configure the following file at the following path (~/.aws/credentials) with your AWS credentials (profile name, access key and secret key). For example:
 <br />
-<br />
 [myprofilenamehere] <br />
 aws_access_key_id = xxxxxxxxxxxx123 <br />
 aws_secret_access_key = yyyyyyyyyyyy321 <br />
